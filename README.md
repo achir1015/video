@@ -1,4 +1,4 @@
-# video
+# video https://ipmos.ngrok.app/video.php
 規劃會員影片串流系統架構與播放器實現方案。
 <img width="1882" height="733" alt="image" src="https://github.com/user-attachments/assets/04cd2086-88ea-44a6-8f1f-5024ffe33a4a" />
 <img width="1916" height="744" alt="image" src="https://github.com/user-attachments/assets/f278f6c4-8387-4659-9881-c757d36adf13" />
